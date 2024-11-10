@@ -2,6 +2,10 @@
 
 This project is a microservices-based application architecture featuring API Gateway, Okta authentication, and various resilience patterns like circuit breaker, rate limiter, and retry mechanisms. Each microservice is independently deployed with its own database, and the application is supported by a Config Server and Service Registry (Eureka) for centralized configuration and discovery.
 
+![Untitled](https://github.com/user-attachments/assets/9bf0d07a-9229-43da-9d68-f5e9dc14c917)
+
+
+
 ## Architecture Overview
 
 ### Components
